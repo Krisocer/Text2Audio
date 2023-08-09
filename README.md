@@ -8,6 +8,8 @@ Use the package manager pip to install bark
 pip install git+https://github.com/suno-ai/bark.git
 ```
 
+## use
+
 Then run test.py to generate audio by changing the prompt
 
 use this lib to change voice:
